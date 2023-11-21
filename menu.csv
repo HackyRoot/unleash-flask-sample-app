@@ -1,0 +1,16 @@
+id,dish_name,description,rating,price,type,image
+1,Masala Dosa,"A crispy, rice-batter crepe encases a spicy mix of mashed potato",4.5,150,Veg,item1.jpeg
+2,Butter Chicken,"Roasted chicken chunks served in a creamy curry",4.7,200,Non-Veg,item2.jpeg
+3,Pani Puri,"A popular street food dish with crispy puris filled with tangy tamarind water",4.3,50,Veg,item3.jpeg
+4,Biryani,"A flavorful rice dish cooked with aromatic spices and meat",4.8,250,Non-Veg,item4.jpeg
+5,Samosa,"A deep-fried pastry filled with spiced potatoes and peas",4.2,30,Veg,item5.jpeg
+6,Pav Bhaji,"A spicy curry of mixed vegetables served with a soft bread roll",4.6,120,Veg,item6.jpeg
+7,Tandoori Chicken,"Chicken marinated in a mixture of yogurt and spices and then roasted in a tandoor",4.7,300,Non-Veg,item7.jpeg
+8,Gulab Jamun,"A sweet dessert consisting of balls of milk solids soaked in a sugar syrup",4.5,60,Veg,item8.jpeg
+9,Rogan Josh,"Aromatic lamb dish of Persian origin, which is one of the signature recipes of Kashmiri cuisine",4.6,350,Non-Veg,item9.jpeg
+10,Aloo Gobi,"Potato and cauliflower stir-fried with garam masala",4.3,130,Veg,item10.jpeg
+11,Dal Makhani,"Creamy and buttery dal made with black lentil and kidney beans",4.5,140,Veg,item11.jpeg
+12,Mutton Biryani,"A flavorful rice dish cooked with aromatic spices and mutton",4.9,300,Non-Veg,item12.jpeg
+13,Vada Pav,"A spicy potato filling sandwiched between buns and layers of spicy garlic and green chutney",4.2,40,Veg,item13.jpeg
+14,Pizza Dosa,"A unique fusion of pizza and dosa filled with cheese and vegetables",4.6,200,Veg,item14.jpeg
+15,Tandoori Paneer Tikka,"Marinated paneer cubes grilled to perfection",4.7,250,Veg,item15.jpeg
